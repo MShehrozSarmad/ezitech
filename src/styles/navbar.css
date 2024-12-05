@@ -1,0 +1,9 @@
+.custom-button:hover {
+    background-image: none !important;
+    background-color: transparent;
+}
+
+.custom-button{
+    /* background-image: 'url("https://www.eziline.com/wp-content/uploads/71dd02f49176464168ee8120e90b1bed-1.png")'; */
+    border: 2px solid goldenrod;
+}

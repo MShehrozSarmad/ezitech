@@ -1,0 +1,16 @@
+@keyframes float {
+    0% {
+        transform: translateY(-12px);
+    }
+    50% {
+        transform: translateY(12px);
+    }
+    100% {
+        transform: translateY(-12px);
+    }
+  }
+  
+  .floating-image {
+    animation: float 4s ease-in-out infinite;
+  }
+  
